@@ -9,7 +9,7 @@
 	url = https://github.com/Azure/azure-ctest
 [submodule "deps/azure-c-shared-utility"]
 	path = deps/azure-c-shared-utility
-	url = https://github.com/Azure/azure-c-shared-utility
+	url = https://github.com/AllianceTrooper/azure-c-shared-utility
 [submodule "deps/azure-uamqp-c"]
 	path = deps/azure-uamqp-c
 	url = https://github.com/Azure/azure-uamqp-c
